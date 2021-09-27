@@ -1,2 +1,12 @@
 # Lab1
-This will be the repository used for the lab 1 course work
+
+* * * 
+
+### in this repository you will be able to find my...
+
+* HTML
+* CSS
+* picture 
+
+### These can all be found in their respective folders/
+
